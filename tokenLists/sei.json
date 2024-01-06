@@ -498,5 +498,12 @@
     "token": "sei16u9kvxurdm5fnfyhe4er30n9ujmz202cfakp0sr2x3m6k7469u7qlrf9ep",
     "icon": "/img/ASBOT.png",
     "decimals": 6
+  },
+  {
+    "protocol": "SATOSEI",
+    "symbol": "SATO",
+    "token": "sei19ytv2c286jfud60pyh7rkkqrwyj957r5t3er5lgpamr625m0wdxqtuqa2f",
+    "icon": "/img/sato/satosei.png",
+    "decimals": 6
   }
 ]
